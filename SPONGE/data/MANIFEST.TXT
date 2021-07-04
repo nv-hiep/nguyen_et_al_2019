@@ -1,0 +1,7 @@
+J2136.fits (application/fits) 37440 bytes.
+J2232.fits (application/fits) 106560 bytes.
+PKS0531.fits (application/fits) 106560 bytes.
+PKS0742.fits (application/fits) 106560 bytes.
+PKS1607.fits (application/fits) 106560 bytes.
+PKS2127.fits (application/fits) 106560 bytes.
+UGC09799.fits (application/fits) 106560 bytes.
